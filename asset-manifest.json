@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/consult/static/js/main.f84bb617.js",
+    "main.js": "/consult/static/js/main.7de432bb.js",
     "static/media/generator.png": "/consult/static/media/generator.0454447dfe86d8220a11.png",
     "static/media/newtork.png": "/consult/static/media/newtork.c5c121ba0de215671516.png",
     "static/media/antenna.jpg": "/consult/static/media/antenna.15970fd65f746328b849.jpg",
     "index.html": "/consult/index.html",
-    "main.f84bb617.js.map": "/consult/static/js/main.f84bb617.js.map"
+    "main.7de432bb.js.map": "/consult/static/js/main.7de432bb.js.map"
   },
   "entrypoints": [
-    "static/js/main.f84bb617.js"
+    "static/js/main.7de432bb.js"
   ]
 }
