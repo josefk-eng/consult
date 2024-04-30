@@ -490,16 +490,16 @@ div#preloader {
   transition: 0.3s;
 }
 
-.navbar-mobile Link,
-.navbar-mobile Link:focus {
+.navbar-mobile a,
+.navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
   color: #0d2529;
 }
 
-.navbar-mobile Link:hover,
+.navbar-mobile a:hover,
 .navbar-mobile .active,
-.navbar-mobile li:hover>Link {
+.navbar-mobile li:hover>a {
   color: #3ec1d5;
 }
 
